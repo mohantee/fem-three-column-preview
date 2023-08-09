@@ -36,6 +36,7 @@ main {
 .container {
   width: 920px;
   margin-inline: auto;
+  margin-top: 1em;
   border-radius: 8px;
   display: flex;
   overflow: hidden;
