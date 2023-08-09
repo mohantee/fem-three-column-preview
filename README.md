@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://mohantee.github.io/fem-three-column-preview/
-- Live Site URL: https://www.frontendmentor.io/solutions/three-column-preview-using-vanilla-html-and-css-dBdEkKblAg
+- Solution URL: https://www.frontendmentor.io/solutions/three-column-preview-using-vanilla-html-and-css-dBdEkKblAg
+- Live Site URL: https://mohantee.github.io/fem-three-column-preview/
 
 ### Built with
 
